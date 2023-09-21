@@ -10,7 +10,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "allure-js-commons": "^2.8.1",
     "allure-mocha": "^2.8.1",
-    "mocha": "^10.2.0"
+    "mocha": "^10.2.0",
+    "mocha-allure-reporter": "^1.4.0",
+    "selenium-webdriver": "^4.12.0"
   }
 }
